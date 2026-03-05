@@ -1,0 +1,3 @@
+-- Active: 1772562431834@@127.0.0.1@3306
+SELECT * FROM frutaria WHERE endereco LIKE '%Rua dos Bobos%' LIMIT 100;
+

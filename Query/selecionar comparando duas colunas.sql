@@ -1,0 +1,1 @@
+SELECT * FROM FRUTARIA WHERE nome = 'Frutaria do Bob' AND id > 1 LIMIT 100;
