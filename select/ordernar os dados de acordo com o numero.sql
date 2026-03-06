@@ -1,0 +1,2 @@
+-- Active: 1772562431834@@127.0.0.1@3306
+SELECT * FROM frutaria ORDER BY numero ASC LIMIT 100;
