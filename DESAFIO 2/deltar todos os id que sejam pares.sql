@@ -1,0 +1,3 @@
+-- Active: 1772562431834@@127.0.0.1@3306
+
+DELETE FROM frutarias WHERE id % 2 = 0;
